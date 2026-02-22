@@ -1,4 +1,4 @@
-import datetim
+import datetimE
 
 def get_day_info():
     now = datetime.datetime.now()
